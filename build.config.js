@@ -70,11 +70,14 @@ module.exports = {
 			'vendor/placeholders/angular-placeholders-0.0.1-SNAPSHOT.min.js',
 			'vendor/angular-ui-router/release/angular-ui-router.js',
 			'vendor/angular-ui-utils/modules/route/route.js',
-			'vendor/angular-resource/angular-resource.min.js',
+			'vendor/angular-resource/angular-resource.js',
 			'vendor/angular-animate/angular-animate.min.js',
 			'vendor/angular-route/angular-route.min.js',
-			'vendor/angular-localStorageService/src/storageprovider.js',
-			'vendor/angular-flash-messages/angular-flash.js'
+			'vendor/angular-skycons/angular-skycons.js',
+			'vendor/underscore/underscore.js',
+			'vendor/d3/d3.js',
+			'vendor/c3/c3.js',
+			'vendor/moment/moment.js'
 		],
 		css: [
 		],
